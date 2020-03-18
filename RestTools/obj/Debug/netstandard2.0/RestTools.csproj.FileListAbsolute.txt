@@ -1,0 +1,8 @@
+E:\netCore\微服务初体验\WebApplicationDemo1\RestTools\bin\Debug\netstandard2.0\RestTools.deps.json
+E:\netCore\微服务初体验\WebApplicationDemo1\RestTools\bin\Debug\netstandard2.0\RestTools.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\RestTools\bin\Debug\netstandard2.0\RestTools.pdb
+E:\netCore\微服务初体验\WebApplicationDemo1\RestTools\obj\Debug\netstandard2.0\RestTools.AssemblyInfoInputs.cache
+E:\netCore\微服务初体验\WebApplicationDemo1\RestTools\obj\Debug\netstandard2.0\RestTools.AssemblyInfo.cs
+E:\netCore\微服务初体验\WebApplicationDemo1\RestTools\obj\Debug\netstandard2.0\RestTools.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\RestTools\obj\Debug\netstandard2.0\RestTools.pdb
+E:\netCore\微服务初体验\WebApplicationDemo1\RestTools\obj\Debug\netstandard2.0\RestTools.csprojAssemblyReference.cache

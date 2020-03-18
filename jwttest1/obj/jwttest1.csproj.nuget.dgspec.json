@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\netCore\\微服务初体验\\WebApplicationDemo1\\jwttest1\\jwttest1.csproj": {}
+  },
+  "projects": {
+    "E:\\netCore\\微服务初体验\\WebApplicationDemo1\\jwttest1\\jwttest1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\netCore\\微服务初体验\\WebApplicationDemo1\\jwttest1\\jwttest1.csproj",
+        "projectName": "jwttest1",
+        "projectPath": "E:\\netCore\\微服务初体验\\WebApplicationDemo1\\jwttest1\\jwttest1.csproj",
+        "packagesPath": "C:\\Users\\84705\\.nuget\\packages\\",
+        "outputPath": "E:\\netCore\\微服务初体验\\WebApplicationDemo1\\jwttest1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\84705\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "jwt": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

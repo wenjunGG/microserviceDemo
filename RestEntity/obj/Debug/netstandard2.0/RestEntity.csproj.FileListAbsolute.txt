@@ -1,0 +1,8 @@
+E:\netCore\微服务初体验\WebApplicationDemo1\RestEntity\bin\Debug\netstandard2.0\RestEntity.deps.json
+E:\netCore\微服务初体验\WebApplicationDemo1\RestEntity\bin\Debug\netstandard2.0\RestEntity.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\RestEntity\bin\Debug\netstandard2.0\RestEntity.pdb
+E:\netCore\微服务初体验\WebApplicationDemo1\RestEntity\obj\Debug\netstandard2.0\RestEntity.AssemblyInfoInputs.cache
+E:\netCore\微服务初体验\WebApplicationDemo1\RestEntity\obj\Debug\netstandard2.0\RestEntity.AssemblyInfo.cs
+E:\netCore\微服务初体验\WebApplicationDemo1\RestEntity\obj\Debug\netstandard2.0\RestEntity.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\RestEntity\obj\Debug\netstandard2.0\RestEntity.pdb
+E:\netCore\微服务初体验\WebApplicationDemo1\RestEntity\obj\Debug\netstandard2.0\RestEntity.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\queryconsul1.exe
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\queryconsul1.deps.json
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\queryconsul1.runtimeconfig.json
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\queryconsul1.runtimeconfig.dev.json
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\queryconsul1.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\queryconsul1.pdb
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\Consul.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\obj\Debug\netcoreapp3.1\queryconsul1.AssemblyInfoInputs.cache
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\obj\Debug\netcoreapp3.1\queryconsul1.AssemblyInfo.cs
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\obj\Debug\netcoreapp3.1\queryconsul1.csproj.CopyComplete
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\obj\Debug\netcoreapp3.1\queryconsul1.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\obj\Debug\netcoreapp3.1\queryconsul1.pdb
+E:\netCore\微服务初体验\WebApplicationDemo1\queryconsul1\obj\Debug\netcoreapp3.1\queryconsul1.csprojAssemblyReference.cache

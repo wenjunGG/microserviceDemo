@@ -1,0 +1,14 @@
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\bin\Debug\netcoreapp3.1\jwttest1.exe
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\obj\Debug\netcoreapp3.1\jwttest1.AssemblyInfoInputs.cache
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\obj\Debug\netcoreapp3.1\jwttest1.AssemblyInfo.cs
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\bin\Debug\netcoreapp3.1\jwttest1.deps.json
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\bin\Debug\netcoreapp3.1\jwttest1.runtimeconfig.json
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\bin\Debug\netcoreapp3.1\jwttest1.runtimeconfig.dev.json
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\bin\Debug\netcoreapp3.1\jwttest1.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\bin\Debug\netcoreapp3.1\jwttest1.pdb
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\bin\Debug\netcoreapp3.1\JWT.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\obj\Debug\netcoreapp3.1\jwttest1.csproj.CopyComplete
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\obj\Debug\netcoreapp3.1\jwttest1.dll
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\obj\Debug\netcoreapp3.1\jwttest1.pdb
+E:\netCore\微服务初体验\WebApplicationDemo1\jwttest1\obj\Debug\netcoreapp3.1\jwttest1.csprojAssemblyReference.cache
